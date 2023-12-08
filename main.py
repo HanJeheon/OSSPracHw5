@@ -1,4 +1,6 @@
 name = input("이름을 입력하세요")
 num = input("학번을 입력하세요")
 major = input("학과를 입력하세요:")
-print("\n<출력>\n이름 : ", name, "\n학번 : ", num, "\n학과: ", major)
+school = input("학교를 입력하세요:")
+grade = input("학년을 입력하세요:")
+print("\n<출력>\n이름 : ", name, "\n학번 : ", num, "\n학과: ", major, "\n학교: ", school, "\n학년: ", grade)
